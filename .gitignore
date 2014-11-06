@@ -40,3 +40,5 @@ Icon
 
 *.properties
 *.jar
+build/built-jar.properties
+dist/AnnexGUI.jar
