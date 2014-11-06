@@ -1,5 +1,5 @@
-*.class
-*.jar
+build\classes\AnnexGUI\*.class
+dist\*.jar
 
 # Windows image file caches
 Thumbs.db
